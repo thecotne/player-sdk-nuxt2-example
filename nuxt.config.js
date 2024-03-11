@@ -13,10 +13,10 @@ export default {
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
-      { rel: 'stylesheet', href: 'https://www.unpkg.com/xsg-player-sdk@0.1.8/dist/style.css' }
+      { rel: 'stylesheet', href: 'https://www.unpkg.com/xsg-player-sdk@0.1.9/dist/style.css' }
     ],
     script: [
-      { src: 'https://www.unpkg.com/xsg-player-sdk@0.1.8/dist/xsg-player-sdk.js' }
+      { src: 'https://www.unpkg.com/xsg-player-sdk@0.1.9/dist/xsg-player-sdk.js' }
     ]
   },
 

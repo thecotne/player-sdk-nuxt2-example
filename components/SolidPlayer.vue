@@ -23,6 +23,8 @@ export default Vue.extend({
 
   mounted() {
     const player = XSG.createPlayer(this.$refs.player, {
+      onShare: () => alert("share"),
+      onBack: () => alert("back"),
       autoplay: true,
       type: "video",
       chromeCast: true,
