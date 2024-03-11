@@ -8,10 +8,10 @@
       gap: '32px',
     }"
   >
-    <AudioPlayer />
+    <!-- <AudioPlayer /> -->
     <SolidPlayer />
-    <ExternalControls />
-    <HlsPlayer />
+    <!-- <ExternalControls /> -->
+    <!-- <HlsPlayer /> -->
   </div>
 </template>
 
