@@ -41,26 +41,27 @@ export default Vue.extend({
               label: "1080p",
               sources: [
                 {
-                  src: "https://uploader.1tv.ge/1tvplay/series/2021/1274/ge/64ff48a005b2e-1080p.mp4",
+                  // src: "https://uploader.1tv.ge/1tvplay/series/2021/1274/ge/64ff48a005b2e-1080p.mp4",
+                  src: "https://uploader.1tv.ge/1tvplay/demo/test2.mp4"
                 },
               ],
             },
-            {
-              label: "720p",
-              sources: [
-                {
-                  src: "https://uploader.1tv.ge/1tvplay/series/2021/1274/ge/64ff53e88faee-720p.mp4",
-                },
-              ],
-            },
-            {
-              label: "480p",
-              sources: [
-                {
-                  src: "https://uploader.1tv.ge/1tvplay/series/2021/1274/ge/64ff5d9256425-480p.mp4",
-                },
-              ],
-            },
+            // {
+            //   label: "720p",
+            //   sources: [
+            //     {
+            //       src: "https://uploader.1tv.ge/1tvplay/series/2021/1274/ge/64ff53e88faee-720p.mp4",
+            //     },
+            //   ],
+            // },
+            // {
+            //   label: "480p",
+            //   sources: [
+            //     {
+            //       src: "https://uploader.1tv.ge/1tvplay/series/2021/1274/ge/64ff5d9256425-480p.mp4",
+            //     },
+            //   ],
+            // },
           ],
         },
       ],
