@@ -28,7 +28,7 @@ export default Vue.extend({
       autoplay: true,
       type: "video",
       chromeCast: true,
-      poster: "https://picsum.photos/200",
+      poster: "https://img.freepik.com/free-photo/mountain-landscape-with-car-driving-down-road_1340-26701.jpg",
       ref: (el) => {
         this.videoRef = el;
       },
